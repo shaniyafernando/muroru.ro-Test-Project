@@ -1,0 +1,26 @@
+{
+  "name": "muroru.ro-test-project",
+  "version": "1.0.0",
+  "description": "An automation test project for an anime streaming website",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaniyafernando/muroru.ro-Test-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/shaniyafernando/muroru.ro-Test-Project/issues"
+  },
+  "homepage": "https://github.com/shaniyafernando/muroru.ro-Test-Project#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^22.20.2"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.23"
+  }
+}
